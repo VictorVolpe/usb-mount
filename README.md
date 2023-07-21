@@ -14,3 +14,4 @@ systemctl daemon-reload
 ### References
 - https://andreafortuna.org/2019/06/26/automount-usb-devices-on-linux-using-udev-and-systemd/
 - https://unix.stackexchange.com/questions/681379/usb-flash-drives-automatically-mounted-headless-computer
+- https://linuxhint.com/list-usb-devices-linux/
